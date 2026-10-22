@@ -1,0 +1,3 @@
+# mine wiki
+
+mining project.
